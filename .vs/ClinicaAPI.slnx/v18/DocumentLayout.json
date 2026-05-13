@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|c:\\users\\usuario\\source\\repos\\clinicaapi\\clinicaapi\\clinicaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|solutionrelative:clinicaapi\\clinicaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36B3B9F-B5FD-4D13-974F-FFB79CA27B11}|ClinicaAPI.Tests\\ClinicaAPI.Tests.csproj|c:\\users\\usuario\\source\\repos\\clinicaapi\\clinicaapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36B3B9F-B5FD-4D13-974F-FFB79CA27B11}|ClinicaAPI.Tests\\ClinicaAPI.Tests.csproj|solutionrelative:clinicaapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|c:\\users\\usuario\\source\\repos\\clinicaapi\\clinicaapi\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|solutionrelative:clinicaapi\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|c:\\users\\usuario\\source\\repos\\clinicaapi\\clinicaapi\\.github\\workflows\\ci-clinica-api.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|solutionrelative:clinicaapi\\.github\\workflows\\ci-clinica-api.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|c:\\users\\usuario\\source\\repos\\clinicaapi\\clinicaapi\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|solutionrelative:clinicaapi\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|c:\\users\\usuario\\source\\repos\\clinicaapi\\clinicaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|solutionrelative:clinicaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|c:\\users\\usuario\\source\\repos\\clinicaapi\\clinicaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|solutionrelative:clinicaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|c:\\users\\usuario\\source\\repos\\clinicaapi\\clinicaapi\\data\\clinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D31CE55-D485-5466-D30A-7EE5ABC17C94}|ClinicaAPI\\ClinicaAPI.csproj|solutionrelative:clinicaapi\\data\\clinicacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ClinicaAPI.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ClinicaAPI.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:57:17.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClinicaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\ClinicaAPI.csproj",
+              "RelativeDocumentMoniker": "ClinicaAPI\\ClinicaAPI.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\ClinicaAPI.csproj",
+              "RelativeToolTip": "ClinicaAPI\\ClinicaAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T19:31:25.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "ClinicaAPI\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\Models\\Paciente.cs",
+              "RelativeToolTip": "ClinicaAPI\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:31:55.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ci-clinica-api.yml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\.github\\workflows\\ci-clinica-api.yml",
+              "RelativeDocumentMoniker": "ClinicaAPI\\.github\\workflows\\ci-clinica-api.yml",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\.github\\workflows\\ci-clinica-api.yml",
+              "RelativeToolTip": "ClinicaAPI\\.github\\workflows\\ci-clinica-api.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-11T20:18:34.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "ClinicaAPI\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "ClinicaAPI\\Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:39:35.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\Program.cs",
+              "RelativeToolTip": "ClinicaAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:38:49.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\appsettings.json",
+              "RelativeToolTip": "ClinicaAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T19:34:23.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClinicaContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\Data\\ClinicaContext.cs",
+              "RelativeDocumentMoniker": "ClinicaAPI\\Data\\ClinicaContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\ClinicaAPI\\ClinicaAPI\\Data\\ClinicaContext.cs",
+              "RelativeToolTip": "ClinicaAPI\\Data\\ClinicaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:32:20.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+name: Pipeline CI Clinica con Pruebas
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar código fuente
+        uses: actions/checkout@v4
+
+      - name: Instalar .NET 8
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      # Restaurar usando el archivo de proyecto de la API
+      - name: Restaurar dependencias
+        run: dotnet restore ClinicaAPI/ClinicaAPI.csproj
+
+      # Compilar la API
+      - name: Compilar aplicación
+        run: dotnet build ClinicaAPI/ClinicaAPI.csproj --configuration Release
+
+      # EJECUTAR PRUEBAS apuntando al proyecto de pruebas
+      - name: Ejecutar Pruebas Unitarias
+        run: dotnet test ClinicaAPI.Tests/ClinicaAPI.Tests.csproj --verbosity normal

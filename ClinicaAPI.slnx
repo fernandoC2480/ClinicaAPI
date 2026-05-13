@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClinicaAPI.Tests/ClinicaAPI.Tests.csproj" Id="a36b3b9f-b5fd-4d13-974f-ffb79ca27b11" />
+  <Project Path="ClinicaAPI/ClinicaAPI.csproj" />
+</Solution>
